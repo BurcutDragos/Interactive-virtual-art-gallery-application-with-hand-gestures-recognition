@@ -23,7 +23,7 @@ git clone https://github.com/BurcutDragos/Interactive-virtual-art-gallery-applic
 cd Interactive-virtual-art-gallery-application-with-hand-gestures-recognition
 3. Install Dependencies:
 Make sure you have Python and pip installed. Then run: pip install -r requirements.txt
-4. Run the Application: python main.py
+4. Run the Application: python pictures.py
 
 <b>How to Use:</b>
 
