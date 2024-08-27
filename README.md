@@ -31,11 +31,12 @@ Make sure you have Python and pip installed. Then run: pip install -r requiremen
 * <b>Next Painting:</b> Swipe right with your hand.
 * <b>Previous Painting:</b> Swipe left with your hand.
 * <b>Show Details:</b> Open palm gesture.
+* <b>Hide Details:</b> Ok sign/gesture.
 * <b>Rate Painting:</b> Thumbs up or down gesture.
 * <b>Exit Application:</b> Closed fist gesture.
 
 <b>2. Navigation:</b>
-* Use the hand gestures in front of the camera to interact with the paintings.
+* Use the hand gestures in front of the camera to interact with the paintings. A demo video showing gesture interaction with this app is in the Video folder.
 
 <b>Contributing:</b>
 1. Fork the repository.
